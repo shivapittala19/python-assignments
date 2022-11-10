@@ -1,0 +1,23 @@
+{
+     
+    "shiva":{
+            "rollno":"19311A05R2",
+            "maths":80,
+            "physics":90,
+            "chemistry":79
+            },
+    "suhas":{
+        "rollno":"19311A05Q4",
+            "maths":60,
+            "physics":79,
+            "chemistry":80
+
+             },
+    "akash":{
+            "rollno":"19311A05T7",
+                "maths":80,
+                "physics":90,
+                "chemistry":79
+    
+           } 
+}
